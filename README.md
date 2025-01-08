@@ -1,4 +1,4 @@
-# multiplierdividerlogisim
+# multiplier divider logisim
 This repository contains solutions for Assignment 3 of ELEC4480: Digital Computer Architecture, involving the design and testing of digital circuits using Logisim Evolution.
 
  Overview of Assignment
